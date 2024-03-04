@@ -1,0 +1,18 @@
+Program Konversi Waktu (Jam, menit, detik)
+
+Tim Pembuat: Error403Forbidden
+NIM Nama Anggota Tim:
+1. J0303211150 Reneta Mega Zaskia
+2. J0303211153 Husni Mubarok Ramadhan
+3. J0303211154 Rohmat Hidayatulloh
+
+Deskripsi Singkat Program:
+>> Program ini dibuat untuk mengkonversi atau mengubah waktu seperti jam, menit, detik. Misalnya 7 jam itu berapa menit? berapa detik? nah kami juga mengembangkan semuanya bolak-balik diantara konversi jam, menit, detik itu.
+
+>> Program ini memiliki fitur sebagai berikut.
+1. Konversi Jam ke menit
+2. Konversi Jam ke detik
+3. Konversi Menit ke detik
+4. Konversi Menit ke jam
+5. Konversi Detik ke menit
+6. Konversi Detik ke jam
